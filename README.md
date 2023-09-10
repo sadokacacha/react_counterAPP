@@ -1,1 +1,1 @@
-i wanted to make this counter app using react and with i learned how to use setInterval , i feel like creating this app in react is kinda harder then vanilla js so thats why i wanted to challenge my self
+i wanted to make this counter app using react and with it i learned how to use setInterval , i feel like creating this app in react is kinda harder then vanilla js so thats why i wanted to challenge my self
